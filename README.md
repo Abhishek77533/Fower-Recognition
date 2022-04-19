@@ -1,6 +1,6 @@
 # Fower-Recognition
 # About Dataset
-This dataset contains 4242 images of flowers.
+This dataset contains 4317 images of flowers.
 The data collection is based on the data flicr, google images, yandex images.
 # Content
 The pictures are divided into five classes: chamomile, tulip, rose, sunflower, dandelion.
